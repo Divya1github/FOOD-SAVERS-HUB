@@ -1,0 +1,57 @@
+.bi {
+    margin-top: 5%;
+    background-image: url("https://res.cloudinary.com/dbteouwhw/image/upload/v1709993009/mfw90t0yxud3k5qa9vtr.jpg");
+}
+.cover_img{
+    margin-bottom:120px;
+    margin-top: 120px;
+}
+.button{
+    border-radius: 10px;
+    border-color:#FDAE3F;
+    margin:5px;
+    margin-top:15px;
+}
+.box{
+    border-width:5px;
+    border:solid;
+    margin:5px;
+    border-radius:5%;
+}
+.bg{
+    background-color: #f6bd8e;
+}
+.bg1{
+    background-color: white ;
+}
+.bg2{
+    background-color:#FDAE3F;
+}
+.img{
+    border-radius:15px;
+}
+.bg4{
+    background-color: antiquewhite;
+    border-radius:5%;
+}
+.txt{
+    color:#245AB7;
+}
+.b{
+    font-weight:bold;
+    margin-left:10px;
+    font-size:22px;
+    font-family:sans-serif;
+}
+.mn{
+    margin-left:20%;
+}
+.b1{
+    font-weight:bold;
+    font-size:20px;
+}
+.img5{
+    background-size: cover;
+    height:50vh;
+
+}
